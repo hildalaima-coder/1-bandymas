@@ -9,6 +9,3 @@ cuteBot.motors(40, 100)
 basic.pause(200)
 cuteBot.turnright()
 basic.pause(200)
-basic.forever(function () {
-	
-})
